@@ -1,0 +1,4 @@
+#Fri Sep 14 17:40:38 EDT 2018
+base.0=C\:\\Users\\lucic\\Desktop\\FirebaseLoginApp-20180912T154148Z-001\\FirebaseLoginApp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
